@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello azure!";
+echo "Hello Azure!";
