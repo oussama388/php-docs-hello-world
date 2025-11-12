@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello WORK!"
+echo "Hello WORK!";
 echo "oussama";
